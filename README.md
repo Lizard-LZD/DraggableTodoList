@@ -1,7 +1,5 @@
-# ✔️ Kanban Board - With React
-
-<p align="center"><img src="https://imgbed.codingkelvin.fun/uPic/TODO_INFO.svg" style="zoom:80%;" /></p>
-
+# Draggable todolist
+Developed by Ziqi
 
 ## Features
 
@@ -11,10 +9,6 @@
 - [x] **Use Local Storage**
 - [x] **Pure and Easy**
 
-## Screenshot
-
-![ScreenGIF](https://imgbed.codingkelvin.fun/uPic/screen.gif)
-
 ## Dependencies
 
 - React
@@ -23,6 +17,6 @@
 
 ## Todo
 
-- [ ] *Make tasks modifiable and editable*
+- [ ] *Make events and tasks modifiable and editable*
 - [ ] *Adapted to mobile*
 
